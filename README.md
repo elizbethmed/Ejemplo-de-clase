@@ -1,1 +1,1 @@
-Hola, esto es una prueba.
+Hola, este proyecto es de git.
